@@ -1,0 +1,18 @@
+{
+  "name": "nodesh",
+  "version": "1.0.0",
+  "description": "Nodejs reverse shell exploit.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "debian",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
