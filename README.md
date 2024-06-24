@@ -1,6 +1,6 @@
 # nodesh
 
-Nodejs reverse shell exploit.
+Nodejs reverse shell.
 
 ## Use
 
